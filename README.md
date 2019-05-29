@@ -48,7 +48,7 @@ Several quick start options are available:
 Read the [Getting started page](https://getbootstrap.com/docs/4.0/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
 
 ## Status
-
+[![codebeat badge](https://codebeat.co/badges/8c3562a0-2cac-4d3b-bf3a-28277ebee7ee)](https://codebeat.co/projects/github-com-zouyu-mb-bootstrap-master)
 [![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com/)
 [![Build Status](https://img.shields.io/travis/twbs/bootstrap/v4-dev.svg)](https://travis-ci.org/twbs/bootstrap)
 [![npm version](https://img.shields.io/npm/v/bootstrap.svg)](https://www.npmjs.com/package/bootstrap)
